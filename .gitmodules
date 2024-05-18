@@ -1,0 +1,9 @@
+[submodule "Quickyfy_frontend"]
+	path = Quickyfy_frontend
+	url = https://github.com/Deep-Thakkar-1910/Quickyfy_frontend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Deep-Thakkar-1910/Quickyfy_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Deep-Thakkar-1910/Quickyfy_backend.git
